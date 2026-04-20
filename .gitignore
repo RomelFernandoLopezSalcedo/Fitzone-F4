@@ -1,7 +1,3 @@
-__pycache__/ 
-*.pyc 
-.pytest_cache/ 
-data/ 
-venv/ 
-.vscode/ 
-*.log 
+# Solo ignoramos carpetas de cache de Python y pytest
+__pycache__/
+.pytest_cache/
